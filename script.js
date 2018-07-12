@@ -1,5 +1,5 @@
 var getTime = function() {  
-    return new Date().getTime() / 1000.0;
+    return new Date().getTime() / 1000.0; 
 }
 
 onload = function()
